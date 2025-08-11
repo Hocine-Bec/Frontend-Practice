@@ -83,10 +83,10 @@ This project was inspired by modern web design trends and created as part of fro
 
 ## 🖥️ Live Preview
 
-[View Live Demo](#)
+[View Live Demo](https://hocine-bec.github.io/Frontend-Practice/Project-002-Kasper-WebPage/)
 
 ## 📷 Screenshots
-***Portfolio Section***
+***Hero Section***
 ![Portfolio Screenshot](images/Screenshot.png)
 
 ## 📝 License
