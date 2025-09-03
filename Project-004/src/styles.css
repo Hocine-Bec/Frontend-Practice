@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-/* Counter Styles */
+/* Counter Project */
 /* body {
   background: #000;
   height: 100vh;
@@ -36,7 +36,7 @@
   cursor: pointer;
 } */
 
-/* Todos List Styles  */
+/* Todos List Project  */
 
 /*
 body {
@@ -97,4 +97,52 @@ button {
 .close {
   padding: 5px 10px;
   cursor: pointer;
-} */ 
+} */
+
+
+/* Meals API Project */
+
+.container h1{
+  text-align: center;
+  margin: 40px 0;
+  font-size: 48px;
+}
+
+.items-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 10px;
+  list-style: none;
+}
+
+.card {
+  background: rgb(255, 249, 249);
+  font-size: 12px;
+  color: rgb(68, 68, 68);
+  margin: 10px;
+  padding: 30px;
+  transition: 1s ease;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}
+
+.card img {
+  border-radius: 5px;
+  width: 300px;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  font-family: sans-serif;
+  margin-top: 20px;
+}
+
+.content p {
+  font-weight: bold;
+  font-size: 13px;
+}
